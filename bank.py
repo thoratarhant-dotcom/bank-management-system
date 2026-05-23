@@ -35,5 +35,3 @@ class Bank:
                 break
         if f==0:
             print("No such account exists!")
-
-print("Yes")
